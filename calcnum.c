@@ -1,3 +1,4 @@
+//https://docs.google.com/document/d/1p8LP3B62GuIdXVjyDjqZKJiAhtBck5XdFqcwqyq_x0Y/edit
 //                            Função
 //===================================================================
 // c[0] * cos(c[1] * x) + c[2] * sin(c[3] * x) + exp(c[4] * x) + c[5]
